@@ -12,9 +12,9 @@ The App requests the following Google API scopes:
 - **Google AdMob API (`admob.readonly`):** To securely fetch your AdMob dashboard metrics (such as revenue, impressions, and clicks) and display them within the App.
 
 **2. Where is Your Data Stored?**
-We firmly believe in your privacy. **We do not own, operate, or maintain any external servers database to store your personal data.** 
 All data retrieved from your Google Account (including OAuth tokens, AdMob statistics, and profile information) is:
 - Stored locally and securely on your own device.
+- Optionally backed up to your personal, private Apple iCloud account (to persist your data across your devices).
 - Never transmitted to us, the developers of AdMonitor.
 - Placed strictly under your control.
 
